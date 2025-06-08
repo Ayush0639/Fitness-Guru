@@ -1,0 +1,38 @@
+{
+    "hammer_curls": [
+        {
+            "angles": [45, 90, 135, 180],
+            "landmarks": [12, 14, 16],  
+            "label": 1
+        },
+        {
+            "angles": [50, 95, 130, 175],
+            "landmarks": [12, 14, 16],  
+            "label": 1
+        }
+    ],
+    "shoulder_press": [
+        {
+            "angles": [90, 95, 100, 105],
+            "landmarks": [12, 14, 16], 
+            "label": 1
+        },
+        {
+            "angles": [85, 100, 110, 115],
+            "landmarks": [12, 14, 16],  
+            "label": 1
+        }
+    ],
+    "squats": [
+        {
+            "angles": [120, 130, 140, 150],
+            "landmarks": [24, 26, 28],  
+            "label": 1
+        },
+        {
+            "angles": [115, 125, 135, 145],
+            "landmarks": [24, 26, 28], 
+            "label": 1
+        }
+    ]
+}

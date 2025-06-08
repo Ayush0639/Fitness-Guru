@@ -1,0 +1,38 @@
+{
+  "hammer_curls": {
+      "name": "hammer_curls",
+      "landmarks": {
+          "right_elbow": [12, 14, 16],
+          "left_elbow": [11, 13, 15],
+          "back": [11, 23, 25]
+      },
+      "angle_range": {
+          "right_elbow": [30, 150],
+          "left_elbow": [30, 150]
+      }
+  },
+  "shoulder_press": {
+      "name": "shoulder_press",
+      "landmarks": {
+          "right_elbow": [12, 14, 16],
+          "left_elbow": [11, 13, 15],
+          "back": [11, 23, 25]
+      },
+      "angle_range": {
+          "right_elbow": [75, 105],
+          "left_elbow": [75, 105]
+      }
+  },
+  "squats": {
+      "name": "squats",
+      "landmarks": {
+          "right_knee": [24, 26, 28],
+          "left_knee": [23, 25, 27],
+          "back": [11, 23, 25]
+      },
+      "angle_range": {
+          "right_knee": [60, 160],
+          "left_knee": [60, 160]
+      }
+  }
+}
